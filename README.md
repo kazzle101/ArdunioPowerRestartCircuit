@@ -1,6 +1,6 @@
 # Ardunio Power Restart Circuit
 
-This is a circuit desined to allow a microcontroller, in this case a PJRC Teensy 4.x board, to restart itself. A 555 timer is used to so when triggered the circuit stays off for a few seconds to allow all the attached sensors and devices to have a clean restart.
+This is a circuit designed to allow a microcontroller, in this case a PJRC Teensy 4.x board, to restart itself. A 555 timer is used to so when triggered the circuit stays off for a few seconds to allow all the attached sensors and devices to have a clean restart.
 
 <img src="https://github.com/kazzle101/ArdunioPowerRestartCircuit/blob/main/555circuitdiagram.jpg" width="800">
 
